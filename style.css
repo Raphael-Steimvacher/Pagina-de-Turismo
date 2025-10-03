@@ -1,0 +1,76 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#firstImage{
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+#captionImage{
+  padding-top: 24px;
+  font-style: italic;
+}
+
+#page{
+  margin: 80px 88px 137px;
+  background-color: white;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+#headerList{
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.list{
+  margin-left: 24px;
+}
+
+.history, .couples, .family, .budget{
+  margin-left: 24px;
+}
+
+.history{
+  color: blue;
+}
+
+.couples{
+  color: purple;
+}
+
+.family{
+  color: pink;
+}
+
+.budget{
+  color: orange;
+}
+
+#baseboard{
+  text-align: center;
+}
+
+.header{
+  color: red;
+  font-size: 16px;
+}
+section{
+  padding-bottom: 48px;
+}
+
+img{
+  border-radius: 28px;
+  padding-bottom: 20px;
+}
+
+footer{
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img{
+  vertical-align: top;
+}
